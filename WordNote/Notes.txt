@@ -1,0 +1,3 @@
+﻿//** Program's notes **//
+EsenClassLib.GetOfficeVersion 
+referans almıştır.

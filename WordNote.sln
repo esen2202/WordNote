@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordNote", "WordNote\WordNote.csproj", "{4F3B5F68-7EB9-4000-9C08-3EC1E6360C7C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WordNote.Setup", "WordNote.Setup\WordNote.Setup.vdproj", "{3AEAEB45-F146-4624-A511-B88F83BA1E98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F3B5F68-7EB9-4000-9C08-3EC1E6360C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3B5F68-7EB9-4000-9C08-3EC1E6360C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3B5F68-7EB9-4000-9C08-3EC1E6360C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3B5F68-7EB9-4000-9C08-3EC1E6360C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AEAEB45-F146-4624-A511-B88F83BA1E98}.Debug|Any CPU.ActiveCfg = Debug
+		{3AEAEB45-F146-4624-A511-B88F83BA1E98}.Debug|Any CPU.Build.0 = Debug
+		{3AEAEB45-F146-4624-A511-B88F83BA1E98}.Release|Any CPU.ActiveCfg = Release
+		{3AEAEB45-F146-4624-A511-B88F83BA1E98}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
